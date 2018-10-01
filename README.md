@@ -1,4 +1,4 @@
 # TextMining
 
-オーム社のHPより書籍のコードをダウンロードできる。
+オーム社のHPより書籍(chicken)のコードをダウンロードできる。
 https://www.ohmsha.co.jp/
